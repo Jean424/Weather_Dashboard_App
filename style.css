@@ -13,13 +13,16 @@ h3{
   font-weight: bold;
 }
 .forecast{
-  
   font-size: 0.9em;
+  font-family:Arial, Helvetica, sans-serif;
 }
 span{
   font-size: 1em;
 }
 li:hover{
-  background-color: lightslategray;
+  background-color: rgb(139, 147, 158);
   text-decoration: underline;
+}
+.pt-1 {
+  color:white;
 }
